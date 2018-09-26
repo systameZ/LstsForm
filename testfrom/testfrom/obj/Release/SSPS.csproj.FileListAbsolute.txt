@@ -1,0 +1,3 @@
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\bin\Release\testfrom.exe.config
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.exe
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.pdb

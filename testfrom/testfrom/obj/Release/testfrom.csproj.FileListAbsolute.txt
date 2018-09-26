@@ -1,0 +1,10 @@
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\bin\Release\testfrom.exe.config
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\bin\Release\testfrom.exe
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\bin\Release\testfrom.pdb
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.Form1.resources
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.Properties.Resources.resources
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.sqlfrom.resources
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.csproj.GenerateResource.Cache
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.exe
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.pdb
+G:\C#练习\c或c++的文件\from\testfrom\testfrom\obj\Release\testfrom.csprojResolveAssemblyReference.cache
